@@ -1,7 +1,7 @@
 package com.personal.freelancingdocument.data.drive
 
 import android.content.Context
-import com.google.api.client.extensions.android.http.AndroidHttp
+import com.google.api.client.http.android.AndroidHttp
 import com.google.api.client.googleapis.extensions.android.gms.auth.GoogleAccountCredential
 import com.google.api.client.json.gson.GsonFactory
 import com.google.api.services.drive.Drive
